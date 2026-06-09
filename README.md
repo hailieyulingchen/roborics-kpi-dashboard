@@ -11,6 +11,7 @@ The engineering team relied on manual Excel reporting to track operational KPIs.
 This process was time-consuming and difficult to maintain as data volume increased.
 
 The objective of this project was to automate KPI generation and provide a more efficient monitoring solution.
+
 ![Workflow](images/workflow.png)
 ## Solution
 Designed and implemented an end-to-end KPI reporting workflow that:
@@ -32,3 +33,4 @@ Excel
 2. Improved KPI reporting speed and consistency
 3. Enabled faster operational monitoring
 4. Supported data-driven decision making for the engineering team
+
