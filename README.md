@@ -23,14 +23,15 @@ Designed and implemented an end-to-end KPI reporting workflow that:
 - Supports dashboard visualization in Splunk and Power BI
 
 ## Tools Used
-Python (Pandas, Numpy)
-Splunk
-Power BI
-Excel
+- Python (Pandas, Numpy)
+- Splunk
+- Power BI
+- Excel
 
-## Results
+## Key Contributions
 1. Reduced manual reporting effort by approximately 90%
 2. Improved KPI reporting speed and consistency
 3. Enabled faster operational monitoring
-4. Supported data-driven decision making for the engineering team
+4. Supported data-driven decision-making for the engineering team
 
+*Due to Non-Disclosure Agreement (NDA), this repository focuses on the project overview, workflow, and business impact of the solution.
