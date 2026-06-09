@@ -34,5 +34,4 @@ Designed and implemented an end-to-end KPI reporting workflow that:
 3. Enabled faster operational monitoring
 4. Supported data-driven decision-making for the engineering team
 
-**Due to Non-Disclosure Agreement (NDA), this repository focuses on the project overview, workflow, and business impact of the solution.
-**
+**Due to Non-Disclosure Agreement (NDA), this repository focuses on the project overview, workflow, and business impact of the solution.**
